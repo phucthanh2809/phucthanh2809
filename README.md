@@ -1,4 +1,4 @@
-# Hi, I'm Phuc Thanh 👋
+# Hi, I'm Thanh Phuc👋
 
 I'm a passionate **Software Engineer** focused on building reliable, scalable web applications.
 
